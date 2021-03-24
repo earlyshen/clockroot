@@ -21,10 +21,12 @@ import { PriorityModalComponent } from './priority-modal/priority-modal.componen
 
 import * as enUS from '../assets/i18n/en-US.json';
 import * as frFR from '../assets/i18n/fr-FR.json';
+import * as zhTW from '../assets/i18n/zh-TW.json';
 
 const langs = { 
   'en-US': (enUS as any).default || enUS, 
-  'fr-FR': (frFR as any).default || frFR 
+  'fr-FR': (frFR as any).default || frFR,
+  'zh-TW': (zhTW as any).default || zhTW,
 };
 
 export class JSONLoader implements TranslateLoader {
