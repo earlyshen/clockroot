@@ -26,8 +26,8 @@
       "Nightmare": "魔王模式"
     },
     "ChooseVagabot": "Choose Vagabot",
-    "ChooseTraits": "Choose Traits",
-    "DifficultyText": "Difficulty",
+    "ChooseTraits": "選擇性格",
+    "DifficultyText": "難度",
     "TurmoilText": "You fall into Turmoil if you cannot place a roost.",
     "TurmoilNobilityText": "You fall into Turmoil if you cannot place a roost or warrior."
   },
@@ -60,8 +60,8 @@
     "Mountain": "山脈"
   },
   "Sections": {
-    "DifficultyTraits": "Difficulty & Traits",
-    "VPItems": "Victory Points & Items",
+    "DifficultyTraits": "難度＆性格",
+    "VPItems": "分數＆道具",
     "DecreeRoosts": "Decree & Roosts",
     "Buildings": "建築",
     "Birdsong": "清晨",
@@ -174,10 +174,10 @@
     }
   },
   "SpecificRules": {
-    "RulePoorManualDexterity": "Poor Manual Dexterity",
-    "TextPoorManualDexterity": "You have no hand of cards. You cannot discard cards. If a human would take a card from you, they draw a card instead. If a human would give a card to you, they discard it, and you score **vp:1**.",
-    "RuleHatesSurprises": "Hates Surprises",
-    "TextHatesSurprises": "Ambush cards cannot be played against you.",
+    "RulePoorManualDexterity": "手牌障礙",
+    "TextPoorManualDexterity": "你沒有手牌，也無法棄牌。如果玩家要從你這抽牌，改為從牌堆抽取一張卡牌。如果要將卡牌給你，改為丟棄那張牌，然後你獲得**vp:1**。",
+    "RuleHatesSurprises": "討厭驚喜",
+    "TextHatesSurprises": "玩家不能對你打出奇襲牌。",
     "RuleLordsOfTheForest": "Lords of the Forest",
     "TextLordsOfTheForest": "You rule any clearings where you are tied in presence.",
     "RuleNobility": "Nobility",
@@ -220,8 +220,8 @@
     "TextVeteransDC": "In battle as defender, use the same die result as the attacker. _(Both players use the higher die to determine hits rolled.)_",
     "RuleWildfire": "Wildfire",
     "TextWildfire": "At the end of evening, **Spread Sympathy**. Do not score points for placing this sympathy token.",
-    "RuleTheKeep": "The Keep",
-    "TextTheKeep": "Only you can place pieces in the clearing with the keep token.",
+    "RuleTheKeep": "城堡",
+    "TextTheKeep": "只有你能在城堡領地中放置配件。",
     "RuleBlitz": "Blitz",
     "TextBlitz": "After you move, find the clearing you rule of the highest priority without any enemy pieces. Move all but one warrior from the clearing. Then, battle in the destination clearing.",
     "RuleFortified": "Fortified",
@@ -235,47 +235,47 @@
   },
   "SpecificBirdsong": {
     "Electric Eyrie": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item.",
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。",
       "DecreeOrder": "Add the order card to the matching Decree column.",
       "NewRoost": "Place a roost and 4 warriors in the ordered clearing of the highest priority where all those pieces can be placed. _(Intentionally not listed on board.)_"
     },
     "Vagabot": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item.",
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。",
       "RestOrder": "If you have two or fewer undamaged items, move to a random adjacent forest, then go to Evening."
     },
     "Automated Alliance": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item.",
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。",
       "Revolt": "Remove all enemy pieces from the **card:{{suit}}** sympathetic clearing with the most enemy pieces, and place the **card:{{suit}}** base there.",
       "RevoltSpread": "If you did not revolt, **Spread Sympathy** {{sympathySpread}}.",
       "Spread": "**Spread Sympathy** {{sympathySpread}}."
     },
     "Mechanical Marquise": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item."
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。"
     },
     "Electric Eyrie (DC)": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item.",
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。",
       "DecreeOrder": "Add the order card to the matching Decree column.",
       "NewRoost": "Place a roost and 3 warriors in the ordered clearing of the highest priority where all those pieces can be placed. _(Intentionally not listed on board.)_"
     },
     "Vagabot (DC)": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item.",
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。",
       "RestOrder": "If you have two or fewer undamaged items, move to a random adjacent forest, then go to Evening."
     },
     "Automated Alliance (DC)": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item.",
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。",
       "Revolt": "Remove all enemy pieces from the **card:{{suit}}** sympathetic clearing with the most enemy pieces, and place the **card:{{suit}}** base there.",
       "Spread": "**Spread Sympathy** {{sympathySpread}}."
     },
     "Mechanical Marquise (DC)": {
-      "RevealOrder": "Reveal an order card.",
-      "CraftOrder": "Craft order card for **vp:1** if it shows an available item."
+      "RevealOrder": "翻開一張計畫牌。",
+      "CraftOrder": "若計畫牌上所示的道具仍在供應堆中，鍛造該道具並獲得**vp:1**。"
     }
   },
   "SpecificDaylight": {
@@ -365,49 +365,49 @@
   },
   "SpecificEvening": {
     "Electric Eyrie": {
-      "Score": "Score {{score}} VP.",
+      "Score": "獲得 {{score}} 分。",
       "NightmareScore": "Score **vp:1**."
     },
     "Vagabot": {
       "Refresh": "If you have any damaged items, refresh {{itemRefreshMin}} undamaged items. If you have none, refresh {{itemRefreshMax}} instead.",
       "Forest": "If you are in a forest, repair all items. If not, repair {{itemRepairs}} item(s). Repair unexhausted items before exhausted items.",
-      "Discard": "Discard the order card.",
+      "Discard": "丟棄計畫牌。",
       "NightmareScore": "Score **vp:1**."
     },
     "Automated Alliance": {
       "Organize": "In each clearing with a base and {{organizeVal}} or more Alliance warriors, remove all Alliance warriors there and **Spread Sympathy**.",
       "WarriorPlace": "Place a warrior in each clearing with a base.",
       "Wildfire": "**Spread Sympathy**, but do not score victory points.",
-      "Discard": "Discard the order card.",
+      "Discard": "丟棄計畫牌。",
       "NightmareScore": "Score **vp:1**."
     },
     "Mechanical Marquise": {
-      "Score": "Score {{score}} VP.",
-      "Discard": "Discard the order card.",
+      "Score": "獲得 {{score}} 分。",
+      "Discard": "丟棄計畫牌。",
       "NightmareScore": "Score **vp:1**."
     },
     "Electric Eyrie (DC)": {
-      "Score": "Score {{score}} VP.",
+      "Score": "獲得 {{score}} 分.",
       "NightmareScore": "Score **vp:1** for every two players (rounded up)."
     },
     "Vagabot (DC)": {
       "Refresh": "Refresh {{itemRefreshMin}} items. If you have no damaged items, refresh {{itemRefreshMax}} instead.",
       "Forest": "If you are in a forest, repair all items. If not, repair {{itemRepairs}} item(s). Repair unexhausted items before exhausted items.",
-      "Discard": "Discard the order card.",
+      "Discard": "丟棄計畫牌。",
       "NightmareScore": "Score **vp:1** for every two players (rounded up)."
     },
     "Automated Alliance (DC)": {
       "Organize": "In each clearing with a base and {{organizeVal}} or more Alliance warriors, remove all Alliance warriors there and **Spread Sympathy**.",
       "WarriorPlace": "Place a warrior in each clearing with a base.",
       "Wildfire": "**Spread Sympathy**, but do not score victory points.",
-      "Discard": "Discard the order card.",
+      "Discard": "丟棄計畫牌。",
       "NightmareScore": "Score **vp:1** for every two players (rounded up)."
     },
     "Mechanical Marquise (DC)": {
       "Repeat": "If you did not place a building this turn and would score less than 3 victory points, discard the order card, draw a new one, and repeat Daylight. This may only happen once per turn.",
       "RepeatIronWill": "If you did not place a building this turn and have five or fewer buildings on the map, discard the order card, draw a new one, and repeat Daylight. This may only happen twice per turn.",
-      "Score": "Score {{score}} VP.",
-      "Discard": "Discard the order card.",
+      "Score": "獲得 {{score}} 分。",
+      "Discard": "丟棄計畫牌。",
       "NightmareScore": "Score **vp:1** for every two players (rounded up)."
     }
   },
