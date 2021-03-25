@@ -92,11 +92,11 @@
       "Setup2": "Collect your 10 sympathy tokens and place them near you."
     },
     "Mechanical Marquise": {
-      "Setup0": "Form a supply of 25 warriors near you.",
-      "Setup1": "Place the keep token in a random corner clearing.",
-      "Setup2": "Place a warrior in each clearing, except the corner clearing diagonally opposite from the keep. Place an extra warrior in the clearing with the keep token. _(Place 12 warriors in total.)_",
-      "Setup3": "Place 1 sawmill, 1 workshop and 1 recruiter randomly among the clearing with the keep token and those clearings adjacent with up to one building per clearing.",
-      "Setup4": "Collect your remaining 15 buildings and place them near you."
+      "Setup0": "拿取25個士兵，放在版圖旁邊，作為你的供應堆。",
+      "Setup1": "將城堡放置在地圖上一個隨機的角落領地。",
+      "Setup2": "除了與城堡領地斜對角的角落領地外，在其他每個領地各放置1個士兵。 在城堡領地放置1個額外的士兵。 _(總共放置12個士兵。)_",
+      "Setup3": "隨機放置1個鋸木廠、1個工坊、1個徵兵所在與城堡領地相鄰的領地中，每個領地放置至多1個建築。",
+      "Setup4": "將剩餘的15個建築放在陣營版圖對應的建築條上。"
     },
     "Electric Eyrie (DC)": {
       "Setup0": "Form a supply of 20 warriors near you.",
@@ -116,66 +116,66 @@
       "Setup2": "Collect your 10 sympathy tokens and place them near you."
     },
     "Mechanical Marquise (DC)": {
-      "Setup0": "Form a supply of 25 warriors near you.",
-      "Setup1": "Place the keep token in a random corner clearing.",
-      "Setup2": "Place a warrior in each clearing, except the corner clearing diagonally opposite from the keep. Place an extra warrior in the clearing with the keep token. _(Place 12 warriors in total.)_",
-      "Setup3": "Place 1 sawmill, 1 workshop and 1 recruiter randomly among the clearings adjacent to the clearing with the keep token with up to one building per clearing.",
-      "Setup4": "Collect your remaining 15 buildings and place them near you."
+      "Setup0": "拿取25個士兵，放在版圖旁邊，作為你的供應堆。",
+      "Setup1": "將城堡放置在地圖上一個隨機的角落領地。",
+      "Setup2": "除了與城堡領地斜對角的角落領地外，在其他每個領地各放置1個士兵。 在城堡領地放置1個額外的士兵。 _(總共放置12個士兵。)_",
+      "Setup3": "隨機放置1個鋸木廠、1個工坊、1個徵兵所在與城堡領地相鄰的領地中，每個領地放置至多1個建築。",
+      "Setup4": "將剩餘的15個建築放在陣營版圖對應的建築條上。"
     }
   },
   "SpecificDifficulty": {
     "Electric Eyrie": {
       "Easy": "During setup, add only one Loyal Vizier to the Decree.",
-      "Normal": "Nothing is changed.",
+      "Normal": "沒有任何改變。",
       "Challenging": "During setup, take one bird Ambush from the deck and add it to the bird column of the Decree.",
       "Nightmare": "During setup, take one bird Ambush from the deck and add it to the bird column of the Decree. At the end of Evening, score one victory point."
     },
     "Vagabot": {
       "Easy": "In evening, refresh one fewer item.",
-      "Normal": "Nothing is changed.",
+      "Normal": "沒有任何改變。",
       "Challenging": "In evening, refresh one more item.",
       "Nightmare": "In evening, refresh one more item. At the end of Evening, score one victory point."
     },
     "Automated Alliance": {
       "Easy": "You only **Organize** if a clearing has four or more Alliance warriors.",
-      "Normal": "Nothing is changed.",
+      "Normal": "沒有任何改變。",
       "Challenging": "You **Organize** if a clearing has two or more Alliance warriors.",
       "Nightmare": "You **Organize** if a clearing has two or more Alliance warriors. At the end of Evening, score one victory point."
     },
     "Mechanical Marquise": {
-      "Easy": "Whenever you **Recruit**, instead place only two warriors.",
-      "Normal": "Nothing is changed.",
-      "Challenging": "Whenever you **Recruit**, also place two warriors in the ordered clearing you rule of highest priority.",
-      "Nightmare": "Whenever you **Recruit**, also place two warriors in the ordered clearing you rule of highest priority. At the end of Evening, score one victory point."
+      "Easy": "當你**招募**時，僅放置2個士兵。",
+      "Normal": "沒有任何改變。",
+      "Challenging": "當你**招募**時，也在你所控制的。與計畫牌類型相同，且最高優先級的領地中放置2個士兵。",
+      "Nightmare": "當你**招募**時，也在你所控制的。與計畫牌類型相同，且最高優先級的領地中放置2個士兵。 在夜晚結束時，你獲得**vp:1**。"
     },
     "Electric Eyrie (DC)": {
       "Easy": "Whenever you **Recruit** for bird, instead place one fewer warrior.",
-      "Normal": "Nothing is changed.",
+      "Normal": "沒有任何改變。",
       "Challenging": "Whenever you **Recruit** for bird, instead place one more warrior.",
       "Nightmare": "Whenever you **Recruit** for bird, instead place one more warrior. At the end of Evening, score one victory point per two players (rounded up)."
     },
     "Vagabot (DC)": {
       "Easy": "In evening, refresh one fewer item.",
-      "Normal": "Nothing is changed.",
+      "Normal": "沒有任何改變。",
       "Challenging": "In evening, refresh one more item.",
       "Nightmare": "In evening, refresh one more item. At the end of Evening, score one victory point per two players (rounded up)."
     },
     "Automated Alliance (DC)": {
       "Easy": "You only **Organize** if a clearing has four or more Alliance warriors.",
-      "Normal": "Nothing is changed.",
+      "Normal": "沒有任何改變。",
       "Challenging": "You **Organize** if a clearing has two or more Alliance warriors.",
       "Nightmare": "You **Organize** if a clearing has two or more Alliance warriors. At the end of Evening, score one victory point per two players (rounded up)."
     },
     "Mechanical Marquise (DC)": {
-      "Easy": "Whenever you **Recruit**, instead place only three warriors.",
-      "Normal": "Nothing is changed.",
-      "Challenging": "Whenever you **Recruit**, instead place five warriors.",
-      "Nightmare": "Whenever you **Recruit**, instead place five warriors. At the end of Evening, score one victory point per two players (rounded up)."
+      "Easy": "當你**招募**時，僅放置3個士兵。",
+      "Normal": "沒有任何改變。",
+      "Challenging": "當你**招募**時，放置5個士兵。",
+      "Nightmare": "你**招募**時，放置5個士兵。在夜晚結束時，場上每兩個玩家(向上取整)，你獲得**vp:1**。"
     }
   },
   "SpecificRules": {
     "RulePoorManualDexterity": "手牌障礙",
-    "TextPoorManualDexterity": "你沒有手牌，也無法棄牌。如果玩家要從你這抽牌，改為從牌堆抽取一張卡牌。如果要將卡牌給你，改為丟棄那張牌，然後你獲得**vp:1**。",
+    "TextPoorManualDexterity": "你沒有手牌，也無法棄牌。如果玩家要從你這抽牌，改為從牌堆抽取一張卡牌。如果玩家要將卡牌給你，改為丟棄那張牌，然後你獲得**vp:1**。",
     "RuleHatesSurprises": "討厭驚喜",
     "TextHatesSurprises": "玩家不能對你打出奇襲牌。",
     "RuleLordsOfTheForest": "Lords of the Forest",
@@ -222,16 +222,16 @@
     "TextWildfire": "At the end of evening, **Spread Sympathy**. Do not score points for placing this sympathy token.",
     "RuleTheKeep": "城堡",
     "TextTheKeep": "只有你能在城堡領地中放置配件。",
-    "RuleBlitz": "Blitz",
+    "RuleBlitz": "閃電突襲",
     "TextBlitz": "After you move, find the clearing you rule of the highest priority without any enemy pieces. Move all but one warrior from the clearing. Then, battle in the destination clearing.",
-    "RuleFortified": "Fortified",
-    "TextFortified": "Your buildings each take two hits to remove. Taking a single hit with a building has no effect.",
-    "RuleHospitals": "Hospitals",
-    "TextHospitals": "At the end of battle as defender, if two or more Marquise warriors were removed in the battle, place two warriors in the clearing with the keep token.",
-    "TextHospitalsDC": "At the end of battle as defender, if two or more Marquise warriors were removed in the battle, place one warrior in the clearing with the keep token.",
-    "RuleIronWill": "Iron Will",
-    "TextIronWill": "Whenever you **Recruit** in Escalated Daylight, place double the warriors.",
-    "TextIronWillDC": "**Repeat Daylight** may happen twice per turn instead of only once."
+    "RuleFortified": "防禦強化",
+    "TextFortified": "你的建築必須受到兩點傷害才會被移除。建築若只受到一點傷害則無視傷害。",
+    "RuleHospitals": "野戰醫院",
+    "TextHospitals": "作為防禦方在戰鬥結束時，若2個或以上的貴族士兵在戰鬥中被移除，放置2名士兵在城堡領地中。",
+    "TextHospitalsDC": "作為防禦方在戰鬥結束時，若2個或以上的貴族士兵在戰鬥中被移除，放置1名士兵在城堡領地中。",
+    "RuleIronWill": "鋼鐵意志",
+    "TextIronWill": "當你在**升級白天**時**招募**，放置兩倍數量的士兵。",
+    "TextIronWillDC": "**重複白天** 每回合可以發生兩次而非只有一次。"
   },
   "SpecificBirdsong": {
     "Electric Eyrie": {
@@ -310,12 +310,12 @@
     },
     "Mechanical Marquise": {
       "Blitz": "Find the clearing you rule of the highest priority without any enemy pieces. Move all but one warrior from the clearing. Then, battle in the destination clearing.",
-      "Bird0": "Battle in all clearings. _(Defender is the player with most pieces, then victory points.)_",
+      "Bird0": "在所有領地中戰鬥。_(防禦方為在該領地中有最多配件的玩家，其次為分數最高者。)_",
       "Bird1": "Recruit {{warriorsOverTwo}} warrior(s) in each of the two clearings you rule with lowest priority. If you only rule one clearing, place all {{totalWarriors}} warriors there.",
       "Bird2": "Build a building of the type with the most pieces on the map in a clearing you rule with the most Marquise Warriors.<br>_(On a tie between sawmills and any other building types, place a sawmill. On a tie between workshops and recruiters but not sawmills, place a recruiter.)_",
       "Bird3": "Move all but three of your warriors from each clearing to the adjacent clearing with the most enemy pieces. Then battle in each clearing you moved into.",
       "BirdChallenging": "Place two warriors in the ordered clearing you rule of the highest priority.",
-      "Suit0": "Battle in each **card:{{suit}}** clearing. _(Defender is the player with most pieces, then victory points.)_",
+      "Suit0": "在每個**card:{{suit}}**領地中戰鬥。_(防禦方為在該領地中有最多配件的玩家，其次為分數最高者。)_",
       "Suit1": "Recruit {{totalWarriors}} warriors evenly spread across **card:{{suit}}** clearings you rule. If there are extra warriors that cannot be placed evenly in **card:{{suit}}** clearings, place the last warrior in the **card:{{suit}}** clearing with the highest priority.",
       "Suit2": "Build a **building:{{building}}** in a clearing you rule with the most Marquise warriors.",
       "Suit3": "Move all but three of your warriors from each **card:{{suit}}** clearing to the adjacent clearing with the most enemy pieces.",
@@ -353,11 +353,11 @@
     },
     "Mechanical Marquise (DC)": {
       "Blitz": "Find the clearing you rule of the highest priority without any enemy pieces. Move all but one warrior from the clearing. Then, battle in the destination clearing.",
-      "Bird0": "Battle in all clearings. _(Defender is the player with most pieces, then victory points.)_",
+      "Bird0": "在所有領地中戰鬥。_(防禦方為在該領地中有最多配件的玩家，其次為分數最高者。)_",
       "Bird1": "Recruit {{totalWarriors}} warrior(s) evenly among the two lowest priority clearings you rule. If you rule only one clearing, place all {{totalWarriors}} there. Score **vp:1** for every two warriors that could not be recruited.",
       "Bird2": "Build a building of the type with the most pieces on the map in a clearing you rule with the most Marquise Warriors.<br>_(On a tie between sawmills and any other building types, place a sawmill. On a tie between workshops and recruiters but not sawmills, place a workshop.)_",
       "Bird3": "Move all but three of your warriors from each clearing to the adjacent clearing with the most enemy pieces. Then battle in each clearing you moved into.",
-      "Suit0": "Battle in each **card:{{suit}}** clearing. _(Defender is the player with most pieces, then victory points.)_",
+      "Suit0": "在每個**card:{{suit}}**領地中戰鬥。_(防禦方為在該領地中有最多配件的玩家，其次為分數最高者。)_",
       "Suit1": "Recruit {{totalWarriors}} warriors evenly spread across **card:{{suit}}** clearings you rule. Score **vp:1** for every two warriors that could not be recruited.<br>_(**Clearing tie**: Place warriors into clearings with highest priority first.)_",
       "Suit2": "Build a **building:{{building}}** in a clearing you rule with the most Marquise warriors.",
       "Suit3": "Move all but three of your warriors from each **card:{{suit}}** clearing to the adjacent clearing with the most enemy pieces. Each warrior may only move once during this action."
@@ -384,7 +384,7 @@
     "Mechanical Marquise": {
       "Score": "獲得 {{score}} 分。",
       "Discard": "丟棄計畫牌。",
-      "NightmareScore": "Score **vp:1**."
+      "NightmareScore": "獲得 **vp:1**。"
     },
     "Electric Eyrie (DC)": {
       "Score": "獲得 {{score}} 分.",
@@ -404,11 +404,11 @@
       "NightmareScore": "Score **vp:1** for every two players (rounded up)."
     },
     "Mechanical Marquise (DC)": {
-      "Repeat": "If you did not place a building this turn and would score less than 3 victory points, discard the order card, draw a new one, and repeat Daylight. This may only happen once per turn.",
-      "RepeatIronWill": "If you did not place a building this turn and have five or fewer buildings on the map, discard the order card, draw a new one, and repeat Daylight. This may only happen twice per turn.",
+      "Repeat": "如果你本回合沒有放置任何建築，而且將會獲得少於3分，則丟棄計畫牌，抽取一張新的計畫牌並重複白天。每回合只能發生一次。",
+      "RepeatIronWill": "如果你本回合沒有放置任何建築，而且地圖上只有五個或是更少的建築，則丟棄計畫牌，抽取一張新的計畫牌並重複白天。每回合只能發生兩次。",
       "Score": "獲得 {{score}} 分。",
       "Discard": "丟棄計畫牌。",
-      "NightmareScore": "Score **vp:1** for every two players (rounded up)."
+      "NightmareScore": "場上每兩個玩家(向上取整)，你獲得**vp:1**。"
     }
   },
   "SpecificExtra": {
